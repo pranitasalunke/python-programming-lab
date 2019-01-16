@@ -1,0 +1,5 @@
+x=int(input('height in feet '))
+y =int(input('inches '))
+z=(x*12*2.5)+(y*2.5)
+print('your height in centimeters is ')
+print(z)
